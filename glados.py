@@ -93,14 +93,14 @@ class gladosanelQd(object):
         url = "https://glados.rocks/api/user/status"
         payload = ""
         response = session.request("GET", url, data=payload)
-        print(response.text)
+        #print(response.text)
         return response
 
     def sign(self):  # 签到
         url = "https://glados.rocks/api/user/checkin"
         payload = "{\"token\":\"glados.one\"}"
         response = session.request("POST", url, data=payload)
-        print(response.text)
+        #print(response.text)
         return response
 
     def main(self):
