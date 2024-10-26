@@ -26,8 +26,4 @@ GalDos每日签到脚本，支持青龙和action，支持多账号批量签到
 | 暂不支持  | 暂不支持 |  暂不支持  |
 ## 使用教程
 ### 青龙
-视频：https://www.bilibili.com/video/BV1bv411F7HL/
-[![](https://bb-embed.zjffun.com/embed?v=BV1jS4y1w7SW)](https://www.bilibili.com/video/BV1bv411F7HL/)
-
-参考仓库:https://github.com/GeorgeLxw/sspauto
 
